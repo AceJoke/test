@@ -1,4 +1,4 @@
 projet de site jeux video
 
-- faire une page
-- presentation du site
+- faire une page de presentation
+-faire plusieurs parties
